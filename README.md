@@ -108,8 +108,7 @@ stock-price-prediction/
 
 ├── modeltraing_and_evaluation.py                              # Model evaluation script
 
-├── Stock_Movement_Analysis_Using_LTSM.ipynb                              # Model evaluation script
-
+├── Stock_Movement_Analysis_Using_LTSM.ipynb                              # Fully integrated code of this Project
 └── README.md                                                  # Project documentation (this file)
 
 
