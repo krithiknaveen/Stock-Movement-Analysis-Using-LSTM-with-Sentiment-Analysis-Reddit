@@ -108,7 +108,15 @@ stock-price-prediction/
 
 ├── modeltraing_and_evaluation.py                              # Model evaluation script
 
-├── Stock_Movement_Analysis_Using_LTSM.ipynb                              # Fully integrated code of this Project
+├── Stock_Movement_Analysis_Using_LTSM.ipynb                              # Fully integrated code of this Project with RapidAPI
+
+├── redditapi_using_praw.py                              # Using RedditAPI with PRAW
+
+├── mergingreddit_with_yhfinance.py                              # Used to merge the reddit data with the stock data that is collect from yh-Finance
+
+├── build_eval_reddit(praw).py                              # Used to build and evaluate the model using the Merged data. This model also extract features
+
+├── Stock_Movement_Analysis_Using_LTSM_with_Reddit_Sentiment.ipynb                              # Fully integrated code of this Project with RapidAPI and Reddit API
 
 └── README.md                                                  # Project documentation (this file)
 
